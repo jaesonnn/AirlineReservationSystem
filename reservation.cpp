@@ -1,3 +1,11 @@
+/* Author:      Floyd Ack
+ * Date:        Saturday, 19 June 2020
+ * Github:      https://github.com/jaesonnn
+ * Twitter:     https://twitter.com/WellFloyd
+ * Facebook:    https://www.facebook.com/jason.ack/
+ * Instagram:   https://www.instagram.com/wellfloyd_/
+*/
+
 #include "reservation.h"
 
 #include <iostream>
