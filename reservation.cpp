@@ -73,7 +73,7 @@ int Reservation::reserveRandomSmoking()
     return 0;
 }
 
-// reserves a seat in the smoking section
+// reserves a seat in the smoking section 
 int Reservation::reserveNonSmoking(int seatLocation)
 {
     if(seatLocation > 9 || seatLocation < 5) {
